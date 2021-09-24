@@ -1,0 +1,14 @@
+P:\Ricaud\C#\2slam\ExoTri\bin\Debug\netcoreapp3.1\ExoTri.exe
+P:\Ricaud\C#\2slam\ExoTri\bin\Debug\netcoreapp3.1\ExoTri.deps.json
+P:\Ricaud\C#\2slam\ExoTri\bin\Debug\netcoreapp3.1\ExoTri.runtimeconfig.json
+P:\Ricaud\C#\2slam\ExoTri\bin\Debug\netcoreapp3.1\ExoTri.runtimeconfig.dev.json
+P:\Ricaud\C#\2slam\ExoTri\bin\Debug\netcoreapp3.1\ExoTri.dll
+P:\Ricaud\C#\2slam\ExoTri\bin\Debug\netcoreapp3.1\ExoTri.pdb
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.csproj.AssemblyReference.cache
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.GeneratedMSBuildEditorConfig.editorconfig
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.AssemblyInfoInputs.cache
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.AssemblyInfo.cs
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.csproj.CoreCompileInputs.cache
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.dll
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.pdb
+P:\Ricaud\C#\2slam\ExoTri\obj\Debug\netcoreapp3.1\ExoTri.genruntimeconfig.cache

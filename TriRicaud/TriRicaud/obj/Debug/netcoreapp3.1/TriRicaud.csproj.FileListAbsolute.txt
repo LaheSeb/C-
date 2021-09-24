@@ -1,0 +1,13 @@
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\bin\Debug\netcoreapp3.1\TriRicaud.exe
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\bin\Debug\netcoreapp3.1\TriRicaud.deps.json
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\bin\Debug\netcoreapp3.1\TriRicaud.runtimeconfig.json
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\bin\Debug\netcoreapp3.1\TriRicaud.runtimeconfig.dev.json
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\bin\Debug\netcoreapp3.1\TriRicaud.dll
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\bin\Debug\netcoreapp3.1\TriRicaud.pdb
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.csprojAssemblyReference.cache
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.AssemblyInfoInputs.cache
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.AssemblyInfo.cs
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.csproj.CoreCompileInputs.cache
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.dll
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.pdb
+P:\Ricaud\C#\2slam\TriRicaud\TriRicaud\obj\Debug\netcoreapp3.1\TriRicaud.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.csprojAssemblyReference.cache
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.AssemblyInfoInputs.cache
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.AssemblyInfo.cs
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.csproj.CoreCompileInputs.cache
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\bin\Debug\netcoreapp3.1\TriPersonne.exe
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\bin\Debug\netcoreapp3.1\TriPersonne.deps.json
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\bin\Debug\netcoreapp3.1\TriPersonne.runtimeconfig.json
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\bin\Debug\netcoreapp3.1\TriPersonne.runtimeconfig.dev.json
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\bin\Debug\netcoreapp3.1\TriPersonne.dll
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\bin\Debug\netcoreapp3.1\TriPersonne.pdb
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.dll
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.pdb
+P:\Ricaud\C#\2slam\TriPersonne\TriPersonne\obj\Debug\netcoreapp3.1\TriPersonne.genruntimeconfig.cache

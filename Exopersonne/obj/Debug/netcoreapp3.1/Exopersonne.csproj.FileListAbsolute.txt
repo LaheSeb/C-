@@ -1,0 +1,14 @@
+P:\Ricaud\C#\2slam\Exopersonne\bin\Debug\netcoreapp3.1\Exopersonne.exe
+P:\Ricaud\C#\2slam\Exopersonne\bin\Debug\netcoreapp3.1\Exopersonne.deps.json
+P:\Ricaud\C#\2slam\Exopersonne\bin\Debug\netcoreapp3.1\Exopersonne.runtimeconfig.json
+P:\Ricaud\C#\2slam\Exopersonne\bin\Debug\netcoreapp3.1\Exopersonne.runtimeconfig.dev.json
+P:\Ricaud\C#\2slam\Exopersonne\bin\Debug\netcoreapp3.1\Exopersonne.dll
+P:\Ricaud\C#\2slam\Exopersonne\bin\Debug\netcoreapp3.1\Exopersonne.pdb
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.csproj.AssemblyReference.cache
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.GeneratedMSBuildEditorConfig.editorconfig
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.AssemblyInfoInputs.cache
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.AssemblyInfo.cs
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.csproj.CoreCompileInputs.cache
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.dll
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.pdb
+P:\Ricaud\C#\2slam\Exopersonne\obj\Debug\netcoreapp3.1\Exopersonne.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+P:\Ricaud\C#\2slam\Exoperosnne2\bin\Debug\netcoreapp3.1\Exoperosnne2.exe
+P:\Ricaud\C#\2slam\Exoperosnne2\bin\Debug\netcoreapp3.1\Exoperosnne2.deps.json
+P:\Ricaud\C#\2slam\Exoperosnne2\bin\Debug\netcoreapp3.1\Exoperosnne2.runtimeconfig.json
+P:\Ricaud\C#\2slam\Exoperosnne2\bin\Debug\netcoreapp3.1\Exoperosnne2.runtimeconfig.dev.json
+P:\Ricaud\C#\2slam\Exoperosnne2\bin\Debug\netcoreapp3.1\Exoperosnne2.dll
+P:\Ricaud\C#\2slam\Exoperosnne2\bin\Debug\netcoreapp3.1\Exoperosnne2.pdb
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.AssemblyInfoInputs.cache
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.AssemblyInfo.cs
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.csproj.CoreCompileInputs.cache
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.dll
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.pdb
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.genruntimeconfig.cache
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.csproj.AssemblyReference.cache
+P:\Ricaud\C#\2slam\Exoperosnne2\obj\Debug\netcoreapp3.1\Exoperosnne2.GeneratedMSBuildEditorConfig.editorconfig

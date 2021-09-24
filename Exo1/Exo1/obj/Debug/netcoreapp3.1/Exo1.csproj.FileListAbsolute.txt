@@ -1,0 +1,14 @@
+P:\Ricaud\C#\2slam\Exo1\Exo1\bin\Debug\netcoreapp3.1\Exo1.exe
+P:\Ricaud\C#\2slam\Exo1\Exo1\bin\Debug\netcoreapp3.1\Exo1.deps.json
+P:\Ricaud\C#\2slam\Exo1\Exo1\bin\Debug\netcoreapp3.1\Exo1.runtimeconfig.json
+P:\Ricaud\C#\2slam\Exo1\Exo1\bin\Debug\netcoreapp3.1\Exo1.runtimeconfig.dev.json
+P:\Ricaud\C#\2slam\Exo1\Exo1\bin\Debug\netcoreapp3.1\Exo1.dll
+P:\Ricaud\C#\2slam\Exo1\Exo1\bin\Debug\netcoreapp3.1\Exo1.pdb
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.AssemblyInfoInputs.cache
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.AssemblyInfo.cs
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.csproj.CoreCompileInputs.cache
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.dll
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.pdb
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.genruntimeconfig.cache
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.csproj.AssemblyReference.cache
+P:\Ricaud\C#\2slam\Exo1\Exo1\obj\Debug\netcoreapp3.1\Exo1.GeneratedMSBuildEditorConfig.editorconfig
